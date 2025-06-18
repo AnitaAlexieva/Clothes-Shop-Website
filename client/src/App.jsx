@@ -1,11 +1,11 @@
-import { useState } from 'react'
+import Content from "./components/Contetn"
 
-function App() {
-  const [count, setCount] = useState(0)
+
+function App() {  
 
   return (
     <>
-     
+          <Content/>
     </>
   )
 }
