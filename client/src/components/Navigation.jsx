@@ -2,7 +2,7 @@ export default function Navigation() {
     return (
         <nav>
             <div className="logo-div">
-
+                <img src="client\src\assets\images\3903482.jpg" alt="" />
             </div>
             <ul className="categories-list">
                 <li>Man</li>
